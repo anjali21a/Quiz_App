@@ -13,13 +13,19 @@ The Java Quiz Application is an interactive desktop application developed using 
 - Java AWT for low-level event handling.
 - Java I/O for reading and writing quiz data.
 ## Screenshots
-![Quiz Start Screen](images/start_screen.png)
-![Question Screen](images/question_screen.png)
+![Screenshot (252)](https://github.com/user-attachments/assets/ee394979-8089-4eb4-86f4-e43f6c0f9d70)
+
+![Screenshot (253)](https://github.com/user-attachments/assets/d8cf24d0-95a3-4bb9-9d4e-ca64f20fc386)
+
+![WhatsApp Image 2024-11-21 at 17 32 25](https://github.com/user-attachments/assets/63de8c5f-8388-435d-acad-091d75f20798)
+
+
+![Screenshot (254)](https://github.com/user-attachments/assets/8662570f-7356-4d15-92cf-d646a48b3531)
 
 ## Setup and Usage
 1. Clone or download the repository.
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/anjali21a/Quiz_App/tree/main.git>
    ```
    ## Future Enhancements
 - Add more question types (true/false, fill-in-the-blanks).
